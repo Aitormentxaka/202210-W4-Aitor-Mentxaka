@@ -23,6 +23,9 @@ false false true
 Pasos a seguir:
 
 -Creamos proyecto incluido ESLint (airbnb) y prettier
+
 -Creamos el repo, protegemos la rama y añadimos husky
+
 -Creamos la rama de trabajo:
+
 -Mergeamos con PR
